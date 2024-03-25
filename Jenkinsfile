@@ -1,6 +1,5 @@
 pipeline {
     agent any
-    // bonj
     stages {
         stage('Build') {
             steps {
